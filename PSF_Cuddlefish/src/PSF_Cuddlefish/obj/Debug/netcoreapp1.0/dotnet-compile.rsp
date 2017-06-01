@@ -193,5 +193,6 @@
 --resource:"E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\obj\Debug\netcoreapp1.0\PSF_Cuddlefishdotnet-compile.deps.json",PSF_Cuddlefish.deps.json
 E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\Program.cs
 E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\Startup.cs
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\Controllers\DietInfo.cs
 E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\Controllers\GalleryController.cs
 E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\Controllers\HomeController.cs
