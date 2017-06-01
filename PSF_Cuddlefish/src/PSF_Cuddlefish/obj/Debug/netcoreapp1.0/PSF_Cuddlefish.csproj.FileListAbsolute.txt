@@ -1,0 +1,8 @@
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\bin\Debug\netcoreapp1.0\PSF_Cuddlefish.deps.json
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\bin\Debug\netcoreapp1.0\PSF_Cuddlefish.runtimeconfig.json
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\bin\Debug\netcoreapp1.0\PSF_Cuddlefish.runtimeconfig.dev.json
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\bin\Debug\netcoreapp1.0\PSF_Cuddlefish.dll
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\bin\Debug\netcoreapp1.0\PSF_Cuddlefish.pdb
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\obj\Debug\netcoreapp1.0\PSF_Cuddlefish.AssemblyInfo.cs
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\obj\Debug\netcoreapp1.0\PSF_Cuddlefish.dll
+E:\git\project-cuddlefish\PSF_Cuddlefish\src\PSF_Cuddlefish\obj\Debug\netcoreapp1.0\PSF_Cuddlefish.pdb
